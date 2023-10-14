@@ -1,0 +1,33 @@
+
+.main-heading{
+    /* background-color: rgb(211, 206, 206); */
+    margin-bottom: -1rem;
+    padding: 2rem;
+}
+
+.containerTwoText{
+    /* background-color: rgb(211, 206, 206); */
+    
+}
+
+
+.card1{
+    margin: 2rem;
+    
+}
+
+.card2{
+    margin: 2rem;
+}
+
+.cardImage{
+    border-radius: 20px;
+    width: 90%;
+}
+
+.TextArea{
+    background-color: rgb(238, 236, 236);
+    /* border: 2px solid grey; */
+    border-radius: 20px ;
+    width: 50%;
+}
