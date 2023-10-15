@@ -5,10 +5,6 @@
     padding: 2rem;
 }
 
-.containerTwoText{
-    /* background-color: rgb(211, 206, 206); */
-    
-}
 
 
 .card1{
@@ -30,4 +26,18 @@
     /* border: 2px solid grey; */
     border-radius: 20px ;
     width: 50%;
+}
+
+.otherImage{
+    position: relative;
+    right: 45px;
+    top: 45px;
+    z-index: -1;
+}
+
+.otherImage2{
+    position: relative;
+    left: 45px;
+    bottom: 85px;
+    z-index: -1;
 }
